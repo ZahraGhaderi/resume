@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+
+
+
+img:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-bottom: -80px;
+  margin-top: 10px;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-left: 10px;
+}

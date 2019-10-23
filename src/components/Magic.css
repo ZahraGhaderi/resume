@@ -1,0 +1,17 @@
+.magic {
+  margin-top: 60px;
+  margin-left: 20px;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 50px;
+}
+
+.txtmagic {
+  font-size: 8px;
+  margin-left: -10px;
+  font-family: "Montserrat", sans-serif;
+}

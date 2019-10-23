@@ -1,0 +1,76 @@
+{
+  "title": "Hello, I'm Zahra Ghaderi!",
+  "subtitle": "Front End Developer | Programmer",
+  "links": {
+    "github": "https://github.com/ZahraGhaderi",
+    "stackoverflow": "https://stackoverflow.com/story/zahraghaderi",
+    "linkedin": "https://linkedin.com/in/zahra-ghaderi-1a4441195",
+    "codepen": "https://codepen.io/zahra_ghaderi_75"
+  },
+
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I love to learn and I beleive in self-learning."
+        },
+        {
+          "type": "p",
+          "content": "I am a Undergraduate Student of Computer Science at Kashan University"
+        },
+        {
+          "type": "p",
+          "content": "I love coding, and when there's something wrong with me, my whole mind focuses on it and I don't relax until I solve it.I also love reading books.In the next section, you will see the languages I learned and Working with them.."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/javascript.png",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/bootstrap.png",
+            "title": "Bootstrap"
+          }
+        }
+      ]
+    }
+  ],
+  "icons":{
+    "down":"images/down.png",
+    "up":"images/up.png",
+    "magic":"images/magic.png"
+  }
+
+}
